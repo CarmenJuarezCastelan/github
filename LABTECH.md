@@ -25,3 +25,7 @@ Figura 2
 En la UAM se imparte la especialidad, maestría y doctorado en el área de Biotecnología. 
 
 Los profesores de la UAM son excelentes..
+
+Figura de Biotecnología con una doble helice
+
+![](https://definicion.de/wp-content/uploads/2016/04/biotecnologia.jpg)
