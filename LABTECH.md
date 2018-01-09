@@ -29,3 +29,5 @@ Los profesores de la UAM son excelentes..
 Figura de Biotecnología con una doble helice
 
 ![](https://definicion.de/wp-content/uploads/2016/04/biotecnologia.jpg)
+
+<center **Figura 4**>
