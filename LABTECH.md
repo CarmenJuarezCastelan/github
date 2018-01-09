@@ -14,3 +14,5 @@ Figura 2
 
 
 En la UAM se imparte la especialidad, maestría y doctorado en el área de Biotecnología. 
+
+Los profesores de la UAM son excelentes..
