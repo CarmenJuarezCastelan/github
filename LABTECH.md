@@ -1,8 +1,17 @@
 LABORATORIO DE BIOTECNOLOGÍA 
 
 DESARROLLO SUSTENTABLE
+<p align="center">
+<img src="http://queesel.info/wp-content/uploads/2016/04/jpg" width=30%>
 
-![](http://queesel.info/wp-content/uploads/2016/04/jpg)
+
+<p align="right">
+<img src="http://queesel.info/wp-content/uploads/2016/04/jpg" width=50%>
+
+<p align="left">
+<img src="http://queesel.info/wp-content/uploads/2016/04/jpg" width=75%>
+
+
 
 La carrera de Biotecnología se imparte en la UNAM
 
