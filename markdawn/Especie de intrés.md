@@ -4,12 +4,17 @@ En el laboratorio de Biotecnología se está estudiando la dinámica poblacional
 
 Fig. 1 . Chorizo tipo español madurado.
 
+
+
+
+
+
 El chorizo puede pasar por un proceso de maduración, en especial el chorizo tipo español tiene 30 días de maduración dentro de una cámara con humedad y temperatura controladas (Fig. 2.)
 
 <center>Cámara de maduración
 
 <div style="text-alingn: center">
-<img src="http://www.jestany.com/imatges/assecador-embotits.jpg"
+<img src="http://www.jestany.com/imatges/assecador-embotits.jpg")
 ![](http://www.jestany.com/imatges/assecador-embotits.jpg)
 Fig. 2 Cámara de maduración para productos cárnicos.
 
