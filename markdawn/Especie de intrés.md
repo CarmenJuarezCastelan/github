@@ -4,14 +4,12 @@ En el laboratorio de Biotecnología se está estudiando la dinámica poblacional
 
 Fig. 1 . Chorizo tipo español madurado.
 
-<<<<<<< HEAD
+
+fdfg
+dff
+dfdf
 
 
-
-
-=======
-**Tipo de chorizos**
->>>>>>> 65dddaf2bcb5be5e815678701144c7212fa67fad
 
 El chorizo puede pasar por un proceso de maduración, en especial el chorizo tipo español tiene 30 días de maduración dentro de una cámara con humedad y temperatura controladas (Fig. 2.)
 
