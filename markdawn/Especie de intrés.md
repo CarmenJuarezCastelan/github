@@ -26,5 +26,6 @@ Fig. 2 Cámara de maduración para productos cárnicos.
 3. sal
 4. nitratos
 
+lista de comandos que se dan para los cambios 
 
 
